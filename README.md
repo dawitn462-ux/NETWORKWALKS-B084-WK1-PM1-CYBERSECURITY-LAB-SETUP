@@ -212,11 +212,13 @@ This laboratory is intended strictly for education purposes only.
 
     Kali Linux: https://kali.org/get-kali
 
-Author
+Author:
+
 Dawit Nigus
 cyber security student
 https://www.linkedin.com/in/dawit-nigus-330436410
-roject Information
+
+project Information
 
 Program Name: Cybersecurity at Networkwalks | Week: 01 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
 
